@@ -1,3 +1,4 @@
+<img src="https://images7.alphacoders.com/133/1337527.png" alt="Banner Image" width="100%" height="300px" />
 <h1 align="center">Hi 👋, I'm Omer Cohen</h1>
 <h3 align="center">3ND year CS student from Ariel University</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/Qr46q411NwsAAAAC/work-working.gif">

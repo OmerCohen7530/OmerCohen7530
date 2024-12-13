@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Omer Cohen</h1>
-<h3 align="center">3ND year CS student from Ariel University</h3>
+<h3 align="center">Software Developer | B.Sc Computer Science</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/Qr46q411NwsAAAAC/work-working.gif">
 
 
